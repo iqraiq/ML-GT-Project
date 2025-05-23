@@ -61,17 +61,3 @@ To classify documents based on their content using a graph-based representation 
 - **Deep Learning Integration**: Add CNNs, RNNs, or graph neural networks.
 - **Multi-modal Classification**: Incorporate additional data types like images or audio.
 
----
-
-## 📂 Folder Structure
-
-```
-project/
-│
-├── url_links.txt               # List of URLs to scrape
-├── scraped_data/               # Folder for extracted raw text
-├── cleaned_data/               # Cleaned and preprocessed data
-├── graphs/                     # Word co-occurrence graphs
-├── results/                    # Evaluation metrics and outputs
-└── README.md                   # Project documentation
-```
